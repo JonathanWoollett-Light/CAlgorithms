@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\source\repos\testingalgorithms\testingalgorithms\source.cpp(369): warning C4018: '<': signed/unsigned mismatch
+  testingAlgorithms.vcxproj -> C:\Users\jonat\source\repos\testingAlgorithms\Debug\testingAlgorithms.exe
+  testingAlgorithms.vcxproj -> C:\Users\jonat\source\repos\testingAlgorithms\Debug\testingAlgorithms.pdb (Partial PDB)
